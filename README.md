@@ -6,6 +6,35 @@ O AluraStoreBrasil consiste em um desafio de Ciência de Dados, feito do zero, d
 
 ---
 
+## Estrutura do projeto
+
+O projeto foi dividido em várias etapas, iniciando uma análise exploratória dos dados a fim de encontrar outliers, valores nulos e etc.
+Com essa etapa concluída, partimos para a resolução das perguntas propostas no problema de negócio. Ao final, foi criado um relatório, respondendo cada pergunta e propondo uma resolução final para o problema.
+
+**Etapas do projeto:**
+- Importação das bibliotecas que serão utilizadas
+- Análise exploratória de dados
+- Resolução das perguntas de negócio
+- Criação de gráficos para cada resposta específica
+- Criação de relatório final
+
+Toda as etapas foram documentadas com *markdown*, para uma melhor compreensão de como o projeto foi construído, passo a passo.
+
+**Ferramentas utilizadas:**
+- `Python`
+- `Pandas`
+- `Plotly`
+
+---
+
+## Como executar o projeto?
+
+1. De início, baixe o notebook do projeto;
+2. Em seguida, entre no seu Google Drive e faça o upload do notebook;
+3. Abra o Notebook utilizando o Google Colaboratory, e execute as células.
+
+---
+
 ## Problema de negócio:
 Você foi contratado como pessoa analista de dados para ajudar Sr. João a decidir **qual loja ele deve vender.**
 
